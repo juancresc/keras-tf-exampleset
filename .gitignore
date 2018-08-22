@@ -2,3 +2,4 @@
 checkpoint
 .DS_Store
 model*
+*.npy
